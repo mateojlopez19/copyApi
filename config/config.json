@@ -19,7 +19,7 @@
     "password": "",
     "database": "",
     "host": "",
-    "dialect": "mysq"
+    "dialect": "mysql"
   }
   
 }
