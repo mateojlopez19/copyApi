@@ -2,23 +2,23 @@
 
   "development": {
     "username": "root",
-    "password": "",
-    "database": "merca",
-    "host": "localhost",
+    "password": "lUS2tdDhzjQz0hkdnWDY",
+    "database": "railway",
+    "host": "containers-us-west-149.railway.app",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "",
-    "database": "",
-    "host": "",
+    "password": "lUS2tdDhzjQz0hkdnWDY",
+    "database": "railway",
+    "host": "containers-us-west-149.railway.app",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "",
-    "database": "",
-    "host": "",
+    "password": "lUS2tdDhzjQz0hkdnWDY",
+    "database": "railway",
+    "host": "containers-us-west-149.railway.app",
     "dialect": "mysql"
   }
   
