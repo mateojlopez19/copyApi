@@ -1,21 +1,21 @@
 {
 
   "development": {
-    "username": "",
+    "username": "root",
     "password": "",
-    "database": "",
-    "host": "",
+    "database": "merca",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
-    "username": "",
+    "username": "root",
     "password": "",
     "database": "",
     "host": "",
     "dialect": "mysql"
   },
   "production": {
-    "username": "",
+    "username": "root",
     "password": "",
     "database": "",
     "host": "",
